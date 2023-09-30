@@ -1,0 +1,13 @@
+.home {
+  background-color: rgb(38, 38, 155);
+  height: 100vh;
+}
+
+.heading {
+  color: #ffffff;
+  text-align: center;
+}
+
+.video {
+  margin-left: 440px;
+}

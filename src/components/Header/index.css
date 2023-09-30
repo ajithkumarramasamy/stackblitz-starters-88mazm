@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  padding-right: 0px;
+}
+
+.nav {
+  display: flex;
+  list-style-type: none;
+  background-color: rgb(4, 74, 97);
+  margin-top: 20px;
+  height: 30px;
+}
+
+.eleme {
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.logo {
+  margin-top: 15px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffffff;
+}

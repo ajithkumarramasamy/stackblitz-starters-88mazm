@@ -1,0 +1,40 @@
+.contact {
+  background-color: rgb(211, 14, 162);
+  height: 100vh;
+}
+
+.icon {
+  color: red;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.icon-container {
+  height: 30px;
+  width: 30px;
+  background-color: rgb(75, 3, 57);
+  text-align: center;
+  border-radius: 50px;
+  margin-right: 10px;
+}
+
+.total-icon-container {
+  display: flex;
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 40px;
+}
+
+.anchor {
+  text-decoration: none;
+  color: black;
+}
+
+.anchor-para {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.contact-heading {
+  padding-left: 10px;
+}

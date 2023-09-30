@@ -1,0 +1,29 @@
+.about {
+  background-color: rgb(38, 38, 155);
+  height: 100vh;
+}
+
+.total-container {
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  padding-left: 300px;
+  margin-top: 100px;
+}
+
+.first-container {
+  padding-right: 20px;
+}
+
+.first-heading {
+  color: #ffffff;
+}
+
+.first-para {
+  color: yellow;
+}
+
+.first-paragraph {
+  color: #ffffff;
+  font-size: 10px;
+}
